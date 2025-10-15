@@ -4,7 +4,7 @@
 # 結果画像
 
 ![第4回の結果](result.png)
-- 工夫した点：Gradient NoiseとCheckrboardを利用し、スイカのような柄のマテリアルを作成しました。
+- 工夫した点：Gradient NoiseとCheckerboardを利用し、スイカのような柄のマテリアルを作成しました。
 
 # 進め方
 
